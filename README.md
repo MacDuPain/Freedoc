@@ -1,24 +1,15 @@
-# README
+# THP _ Rails & BDD 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Lab from [The_Hacking_Project](https://www.thehackingproject.org/?locale=fr)
 
-Things you may want to cover:
+# FreeDoctor - Database for a Medical Practice 🩺
 
-* Ruby version
+## 📚 Overview
 
-* System dependencies
+In this project, I designed a database for a medical practice, including patients, doctors, specialties, and more.
 
-* Configuration
+After cloning the repository, ensure to execute the following commands:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+$ cd free_doctor_make-db
+$ bundle install
